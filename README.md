@@ -13,7 +13,6 @@ Intrested in Everything , Happily Waiting  to collabrate with u all.
 
 </div>
 
-[Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=raguladhithyam&show_icons=true)
 <h3>
   
 - 👋 I’m Ragul Adhithya M
@@ -21,10 +20,7 @@ Intrested in Everything , Happily Waiting  to collabrate with u all.
 
  </h3>
   
-<hr>
 
-  
-<div>
   
 <hr>
   
@@ -32,9 +28,9 @@ Intrested in Everything , Happily Waiting  to collabrate with u all.
   
   <h3> Main Projects </h3>
   <p><a href="https://github.com/raguladhithyam/Project-Management-System-Frontend" target="_blank">Project Management System</a></p>
+  <p><a href="https://projects.raguladhithya.in" target="_blank">Mini Projects - Click Here</a></p>
   
-  
-  <a href="https://raguladhithya.in" target="_blank">
+  <a href="https://portfolio2.raguladhithya.in" target="_blank">
   
   ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
   
@@ -44,9 +40,7 @@ Intrested in Everything , Happily Waiting  to collabrate with u all.
 
  <br><hr>
  
-  
-  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raguladhithyam" alt="raguladhithyam" /></a> </p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raguladhithyam&show_icons=true&locale=en&layout=compact" alt="raguladhithyam" /></p><br>
 
