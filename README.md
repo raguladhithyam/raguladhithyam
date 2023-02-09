@@ -41,11 +41,6 @@ Intrested in Everything , Happily Waiting  to collabrate with u all.
  <br><hr>
  
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raguladhithyam&show_icons=true&locale=en&layout=compact" alt="raguladhithyam" /></p><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raguladhithyam&show_icons=true&locale=en" alt="raguladhithyam" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raguladhithyam&" alt="raguladhithyam" /></p>
 
  <hr>
