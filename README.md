@@ -37,14 +37,9 @@ Intrested in Everything , Happily Waiting  to collabrate with u all.
   </a>
   
 </div>
-
- <br><hr>
- 
-
+<hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raguladhithyam&" alt="raguladhithyam" /></p>
-
- <hr>
-  
+ <hr>  
   <h3> Other Social Platforms </h3>
   
 <a href="https://www.instagram.com/ragul_2003" target="_blank">
