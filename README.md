@@ -7,7 +7,7 @@
 # Hi, I'm _MRA_ 🖐️
 
 <h2>
-Intrested in Everything , Happily Waiting  to collabrate with u all.
+Aspiring Full Stack Developer
 <br>
 </h2>
 
@@ -16,12 +16,10 @@ Intrested in Everything , Happily Waiting  to collabrate with u all.
 <h3>
   
 - 👋 I’m Ragul Adhithya M
-- 📖 Currently Learning Full-Stack\
+- 📖 Currently Learning Full-Stack
 
  </h3>
-  
-
-  
+ 
 <hr>
   
 <div>
