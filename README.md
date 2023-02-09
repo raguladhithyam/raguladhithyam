@@ -17,6 +17,7 @@ Aspiring Full Stack Developer
   
 - 👋 I’m Ragul Adhithya M
 - 📖 Currently Learning Full-Stack
+- I have a basic Knowledge of C , Python , Java , C++ , Dart , HTML , CSS , JavaScript and Kotlin.
 
  </h3>
  
