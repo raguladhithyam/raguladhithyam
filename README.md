@@ -37,8 +37,6 @@ Aspiring Full Stack Developer
   
 </div>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raguladhithyam&" alt="raguladhithyam" /></p>
- <hr>  
   <h3> Other Social Platforms </h3>
   
 <a href="https://www.instagram.com/ragul_2003" target="_blank">
