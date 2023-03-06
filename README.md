@@ -29,7 +29,7 @@ Aspiring Full Stack Developer
   <p><a href="https://github.com/raguladhithyam/Project-Management-System-Frontend" target="_blank">Project Management System</a></p>
   <p><a href="https://projects.raguladhithya.in" target="_blank">Mini Projects - Click Here</a></p>
   
-  <a href="https://portfolio2.raguladhithya.in" target="_blank">
+  <a href="https://portfolio1.raguladhithya.in" target="_blank">
   
   ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
   
