@@ -23,25 +23,13 @@ Aspiring Full Stack Developer
  
 <hr>
   
-<div>
-  
-  <h3> Main Projects </h3>
-  <p><a href="https://github.com/raguladhithyam/Project-Management-System-Frontend" target="_blank">Project Management System</a></p>
-  <p><a href="https://projects.raguladhithya.in" target="_blank">Mini Projects - Click Here</a></p>
-  
-  <a href="https://portfolio1.raguladhithya.in" target="_blank">
-  
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-  
-  </a>
-  
-</div>
+
 <hr>
   <h3> Other Social Platforms </h3>
   
 <a href="https://www.instagram.com/ragul_2003" target="_blank">
 
-![Instagram](https://img.shields.io/badge/ragul_2003-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/raguladhithya03-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 </a>   <a href="https://www.codepen.io/raguladhithyam" teerget="_blank">
   
